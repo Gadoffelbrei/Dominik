@@ -1,0 +1,30 @@
+# Aufgabenergebnis
+
+## Eingesetzte Technologien / Frameworks
+
+Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
+
+- Java / JavaFX
+
+Ich habe mich für Java entschieden, da ich Java bisher, von allen Programmiersprachen am meisten genutzt habe, und im Studium gelernt habe mit JavaFX umzugehen.
+
+## Installation / Ausführen des Projektes
+
+Beschreibe, wie wir uns das Projekt lokal anschauen kÃ¶nnen.
+
+---
+
+Folgende Komponenten müssen lokal installiert sein:
+
+- [Jdk]	https://www.oracle.com/java/technologies/javase-downloads.html
+- [eclipse]	https://www.eclipse.org/downloads/
+- [JavaFX]	https://www.eclipse.org/efxclipse/install.html
+
+natürlich kann das programm in jeder andere java entwicklungsumgebung ausgeführt werden, in der javafx als bibliothek eingefügt wurde, ich benutze jedoch eclipse..
+
+Um das Projekt lokal auszuführen muss als erstes JDK installiert werden, danach kann eclipse installiert werden, und danach javaFX in eclipse installiert werden.
+
+import des projekts in eclipse
+File -> import... -> General -> Existing Projects into Workspace -> Directory auswählen und project auswählen -> finish
+
+danach sollte der launcher im mainpackage ausgeführt werden können.
