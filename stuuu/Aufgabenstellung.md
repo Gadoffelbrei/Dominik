@@ -8,12 +8,12 @@ Die Daten werden z.B. aus einem Quell-System exportiert, in einem Zielsystem imp
 
 Das Ziel ist die Implementierung einer Anwendung zur Verarbeitung und Aufbereitung der beiliegenden CSV-Datei. Die Aufgabe wird in folgendende Teil-Aufgaben/Funktionen gegliedert.
 
-+ 1. Import der beiligenden CSV-Datei 
-+ 2. Tabellarische Darstellung der Daten aus der CSV-Datei
-+ 3. Anlegen von neuen Datensätzen anhand des gleichen Schemas
-+ 4. Bearbeitung bestehender Datensätze
-- 5. Prozentuale Darstellung von Datensätzen als Chart (Balken- oder Tortendiagramm)
-+ 6. Export aller Daten als CSV-Datei mit dem gleichen Schema
+1. Import der beiligenden CSV-Datei +
+2. Tabellarische Darstellung der Daten aus der CSV-Datei +
+3. Anlegen von neuen Datensätzen anhand des gleichen Schemas +
+4. Bearbeitung bestehender Datensätze +
+5. Prozentuale Darstellung von Datensätzen als Chart (Balken- oder Tortendiagramm) -
+6. Export aller Daten als CSV-Datei mit dem gleichen Schema +
 
 ## 2. Design
 
